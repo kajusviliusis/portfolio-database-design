@@ -31,5 +31,3 @@ VALUES
 -- Brown Tech
 (3, 4, 'BUY', 7, 220, NOW()),
 (3, 3, 'BUY', 5, 155, NOW());
-
-
